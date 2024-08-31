@@ -138,5 +138,30 @@ h1 {
     margin-top: 20px;
 }
 
-
 /* Random Info Section */
+
+/* Quote Section */
+
+.container-three {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 100px;
+    align-items: center;
+}
+
+#quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    width: 830px;
+}
+
+#thor {
+    align-self: flex-end;
+    padding-right: 250px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+/* Quote Section */

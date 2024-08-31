@@ -165,3 +165,33 @@ h1 {
 }
 
 /* Quote Section */
+
+/* Call to Action */
+
+.container-four {
+    display: flex;
+    background-color: #3882F6;
+    margin: 100px 150px;
+    padding: 50px 30px;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+
+.call p {
+    color: #F9FAF8;
+}
+
+#action {
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.container-four button {
+    border: 2px solid #F9FAF8;
+    height: 30px;
+    width: 100px;
+}
+
+/* Call to Action */

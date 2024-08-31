@@ -98,3 +98,45 @@ a {
 }
 
 /* Header Section */
+
+/* Random Info Section */
+
+.container-two {
+    display: flex;
+    flex-direction: column;
+    height: 458px;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+h1 {
+    color: #1F2937;
+}
+
+.super-box-container {
+    display: flex;
+    gap: 40px;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
+
+.box-container {
+    display: flex;
+    flex-flow: column wrap;
+    width: 160px;
+    text-align: center;
+}
+
+.box-container p {
+    color: #4d5f84;
+    margin-top: 20px;
+}
+
+
+/* Random Info Section */

@@ -195,3 +195,17 @@ h1 {
 }
 
 /* Call to Action */
+
+/* Footer */
+
+.container-five {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 50px 0; 
+    font-size: 18px;
+}
+
+/* Footer */
